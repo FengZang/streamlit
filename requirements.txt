@@ -42,7 +42,6 @@ nvidia-nvtx-cu12==12.1.105
 opencv-python==4.10.0.84
 packaging==24.1
 pafy==0.5.5
-pandas==2.2.2
 pillow==10.4.0
 protobuf==5.27.2
 psutil==6.0.0
