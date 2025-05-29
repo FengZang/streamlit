@@ -2,3 +2,5 @@ pillow==10.4.0
 streamlit==1.45.1
 opencv-python==4.10.0.84
 ultralytics==8.2.73
+yt-dlp==2024.7.16
+numpy==1.26.4
